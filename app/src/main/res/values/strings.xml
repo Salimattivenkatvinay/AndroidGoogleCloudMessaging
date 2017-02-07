@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AndroidGoogleCloudMessaging</string>
+    <string name="gcm_send_message">gcm_send_message</string>
+    <string name="token_error_message">token_error_message</string>
+    <string name="gcm_defaultSenderId">gcm_defaultSenderId</string>
+</resources>
